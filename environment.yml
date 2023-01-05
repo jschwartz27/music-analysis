@@ -1,0 +1,5 @@
+name: midi
+dependencies:
+  - python=3.10
+  - matplotlib
+  - music21
